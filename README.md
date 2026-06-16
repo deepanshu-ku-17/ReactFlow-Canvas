@@ -334,6 +334,24 @@ with minimal custom implementation.
 
 ---
 
+## SceenSots
+
+### Given UI ScreenShot
+
+<img width="678" height="380" alt="image" src="https://github.com/user-attachments/assets/3c16b519-a87c-411c-9132-0dd70030365e" />
+
+### Actual UI
+
+#### Dark Mode
+
+<img width="853" height="416" alt="image" src="https://github.com/user-attachments/assets/c5f7fe48-7032-4e29-b77c-87f3cbdd4990" />
+
+#### Light Mode
+
+<img width="853" height="416" alt="image" src="https://github.com/user-attachments/assets/c4832d21-c082-4d5f-a6bf-7add33ca575e" />
+
+---
+
 ## Author
 
 Deepanshu Kumar
