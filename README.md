@@ -6,6 +6,31 @@ This project was developed as a Frontend Intern take-home assignment of Ainyx So
 
 ---
 
+## Architecture Overview
+
+Client/UI State
+→ Zustand
+
+Server State
+→ TanStack Query
+
+Graph Rendering
+→ ReactFlow
+
+Mock Backend
+→ In-memory Promise-based APIs
+
+UI Components
+→ React + TypeScript + shadcn/ui
+
+---
+
+## Live Demo
+
+Coming Soon
+
+---
+
 ## Demo Features
 
 ### Layout
@@ -334,19 +359,19 @@ with minimal custom implementation.
 
 ---
 
-## SceenShots
+## Screenshots
 
-### Given UI ScreenShot
+### Assignment Reference UI ScreenShot
 
 <img width="678" height="380" alt="image" src="https://github.com/user-attachments/assets/3c16b519-a87c-411c-9132-0dd70030365e" />
 
-### Actual UI
+### Assignment UI
 
-#### Dark Mode
+#### Application - Dark Theme
 
 <img width="853" height="416" alt="image" src="https://github.com/user-attachments/assets/c5f7fe48-7032-4e29-b77c-87f3cbdd4990" />
 
-#### Light Mode
+#### Application - Light Theme
 
 <img width="853" height="416" alt="image" src="https://github.com/user-attachments/assets/c4832d21-c082-4d5f-a6bf-7add33ca575e" />
 
@@ -356,4 +381,4 @@ with minimal custom implementation.
 
 Deepanshu Kumar
 
-Frontend Intern Take-home Assignment (Ainyx Solutions)
+Frontend Intern Take-home Assignment Submission for Ainyx Solutions
