@@ -27,7 +27,7 @@ UI Components
 
 ## Live Demo
 
-Coming Soon
+https://react-flow-canvas-xi.vercel.app/
 
 ---
 
