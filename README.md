@@ -2,7 +2,7 @@
 
 A responsive infrastructure/app graph builder built with ReactFlow, TypeScript, Zustand, TanStack Query, and Vite.
 
-This project was developed as a Frontend Intern take-home assignment focused on graph visualization, state management, mock API integration, and responsive UI architecture.
+This project was developed as a Frontend Intern take-home assignment of Ainyx Solutions focused on graph visualization, state management, mock API integration, and responsive UI architecture.
 
 ---
 
