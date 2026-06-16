@@ -334,7 +334,7 @@ with minimal custom implementation.
 
 ---
 
-## SceenSots
+## SceenShots
 
 ### Given UI ScreenShot
 
